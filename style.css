@@ -1,0 +1,60 @@
+/* #game{
+    font-family: "Brush Sript MT", cursive;
+    border: 2px solid;
+    border-color: black;
+    padding: 60px;
+    text-align: center;
+    background-color: rgb(222, 217, 217);
+    border-radius: 12px;
+}
+
+.gameText{
+    margin-bottom: 30px;
+    font-size: 32px;
+}
+
+.buttons{
+    height: 30px;
+    width: 140px;
+    font-size: 20px;
+    background-color: rgb(170, 201, 191);
+    margin-top: 26px;
+    margin-left: 6px;
+}
+
+.buttons:hover{
+    background-color:rgb(207, 56, 56);
+} */
+
+.cell{
+    height: 90px;
+    width: 100px;
+    border: 2px solid;
+    text-align: center;
+    font-size: 50px;
+    line-height: 80px;
+    box-shadow: 0px 0px 0px 2px;
+    cursor: pointer;
+}
+
+.container{
+    width: 225px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin: auto;
+}
+
+.gamebox{
+    text-align: center;
+    font-family: "Permanent Marker", cursive;
+
+}
+
+#btn {
+    margin-top: 30px;
+    margin-left: 50px;
+    width: 90px;
+    height: 30px;
+    font-size: 17px;
+
+};
