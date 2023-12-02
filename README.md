@@ -1,7 +1,9 @@
 TIC TAC TOE GAME
+
 This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It allows two players to take turns marking the spaces on a 3x3 grid, aiming to get three of their symbols in a row—horizontally, vertically, or diagonally.
 
 FEATURES
+
 Two-player Game: Play against a friend on the same device.
 Interactive Interface: User-friendly interface with interactive game tiles.
 Winning Logic: The game checks for a winning condition after each move.
@@ -10,8 +12,8 @@ Demo
 You can try out the game by visiting the Tic Tac Toe Game Demo (insert a link to the live demo if available).
 
 HOW TO PLAY
-Access the Game:
 
+Access the Game:
 Open the index.html file in a web browser or play online via the provided demo link.
 Game Start:
 
