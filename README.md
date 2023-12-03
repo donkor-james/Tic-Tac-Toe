@@ -8,8 +8,6 @@ Two-player Game: Play against a friend on the same device.
 Interactive Interface: User-friendly interface with interactive game tiles.
 Winning Logic: The game checks for a winning condition after each move.
 Restart Functionality: Start a new game with the click of a button.
-Demo
-You can try out the game by visiting the Tic Tac Toe Game Demo (insert a link to the live demo if available).
 
 HOW TO PLAY
 
